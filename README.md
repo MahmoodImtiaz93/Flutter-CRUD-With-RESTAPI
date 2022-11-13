@@ -1,4 +1,4 @@
-# notesappv2
+# Flutter CRUD with REST API and Provider
 
 A new Flutter project.
 
